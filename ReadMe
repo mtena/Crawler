@@ -1,0 +1,9 @@
+Runs on pyhton 3.10.0
+
+how to run 
+in terminal 
+$pyhton Crawler.py <numOfword> <banded Word1> <banded Word2> <banded Wordn>
+arg one is the number of top words and all other args are treated as a list of excluded words
+ex:
+    $pyhton Crawler.py 3 bum test
+    
